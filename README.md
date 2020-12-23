@@ -5,6 +5,7 @@ This web app facilitates user to upload .xlsx files and perform several queries 
 ## Front End
 
 ![Frontend](images/client.png)
+![Frontend](images/client1.png)
 
 ## Steps to run the project
 
