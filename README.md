@@ -7,6 +7,7 @@ This web app facilitates user to upload .xlsx files and perform several queries 
 ![Frontend](images/client.png)
 
 Below image shows a result.zip being downloaded which is sent from the server
+
 ![Frontend](images/client1.png)
 
 ## Steps to run the project
