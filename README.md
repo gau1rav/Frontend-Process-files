@@ -25,6 +25,8 @@ Visit `http://localhost:3000` to view the app in browser
 
 **Note: Please wait for a few seconds after clicking the submit button of each query/task. The server takes a few seconds to process the file and send the results back in zip format. To avoid spamming on server, buttons are disabled when a service(query) request is in progress*
 
+**Note: User Id(used to create unique filename for each user in server) is hard coded as 001 in client side for now. However, it can be stored in a database and then accessed from there to ensure itegrity of user id*
+
 
 ## Learn More
 
